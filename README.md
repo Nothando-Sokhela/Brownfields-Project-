@@ -1,6 +1,8 @@
 
 # Project One - Brownfields-Project
 
+**Note:** As per school policy, we are not permitted to share the code for this project. However, detailed documentation and insights into the project's development process are provided in this README and the accompanying article.
+
 Welcome to the Brownfields project, a collaborative endeavor aimed at enhancing the popular Robot World game through iterative development and modern software engineering practices.
 
 Project Overview:
