@@ -48,6 +48,7 @@ Testing: JUnit
 Version Control: GitLab
 
 Challenges Faced:
+
   Understanding Someone else's Code: Navigating and understanding the complexities of the existing codebase presented initial challenges but was overcome through collaborative effort and thorough analysis.
   
   Integration and Deployment: Integrating new features seamlessly and ensuring smooth deployment required careful planning and coordination, but was facilitated by the use of Docker containers and continuous integration pipelines.
