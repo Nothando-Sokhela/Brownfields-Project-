@@ -36,11 +36,16 @@ Separation of Concerns: Design for Change:
 Technologies Used:
 
 Languages: Java
-  Tools: Maven, Makefile, Docker, Git
-  Frameworks: Spring Boot (for HTTP API)
-  Database: SQLite (for persistence)
-  Testing: JUnit
-  Version Control: GitLab
+
+Tools: Maven,Makefile, Docker, Git
+  
+Frameworks: Spring Boot (for HTTP API)
+  
+Database: SQLite (for persistence)
+  
+Testing: JUnit
+
+Version Control: GitLab
 
 Challenges Faced:
   Understanding Legacy Code: Navigating and understanding the complexities of the existing codebase presented initial challenges but was overcome through collaborative effort and thorough analysis.
